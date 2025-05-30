@@ -1,0 +1,17 @@
+.Navi{
+  display: flex;
+}
+.Logo-titlt{
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+.resto{
+  color: rgba(173, 86, 5, 0.808);
+
+}
+.logo-image{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
