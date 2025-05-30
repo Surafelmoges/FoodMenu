@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .Navi{
   display: flex;
   background: rgb(41, 38, 38);
@@ -37,5 +41,43 @@
   font-size: 18px;
 }
 .nav-links li a:hover{
-  color: rgb(240, 161, 44);
+  color: rgb(212, 172, 111);
+}
+.menu{
+ padding: 60px 30px;
+ text-align: center;
+  width: 50%;
+  height: 400px;
+  
+  margin: auto;
+  background-image: url('./assets/images/burger.jpg/');
+  background-size: cover;
+  background-position: center;
+   opacity: 0.8;
+   border-radius: 20px
+
+}
+.m{
+  font-size: 40px;
+  color: #ebad04d7;
+  text-align: center;
+
+  
+  
+}
+.menu-image{
+  width: 80px;
+  height: 80px;
+}
+.ool{
+  text-align: left;
+  margin-left: 20px;
+  color: #ffffff;
+  font-size: 22px;
+  background: #312010;
+  padding: 32px;
+  border-radius: 20px;
+}
+.westo{
+  color: #ebad04d7;
 }
