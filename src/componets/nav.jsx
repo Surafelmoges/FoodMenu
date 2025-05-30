@@ -10,7 +10,7 @@ export default function Nav() {
             className='logo-image'
              />
              <h1 className='Logo-titlt'>Addis <span className='resto'>Restaurant</span></h1>
-            <ul className='"nav-links"'>
+            <ul className="nav-links">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About us</a></li>
                 <li><a href="#">Orders</a></li>
